@@ -1,6 +1,6 @@
 # Day 4: Secure Container
 
-> :warning: **SPOILER ALERT** :warning: - The code contains solution for the whole task. Try first to solve it **yourself**. :link: https://adventofcode.com/2019/day/3
+> :warning: **SPOILER ALERT** :warning: - The code contains solution for the whole task. Try first to solve it **yourself**. :link: https://adventofcode.com/2019/day/4
 
 ---
 
@@ -10,9 +10,11 @@ Run iex with mix `iex -S mix`
 
 ```elixir
 # Run
-Day3.run
+Day4.run
 
 ```
+
+### Part 1
 
 You arrive at the Venus fuel depot only to discover it's protected by a password. The Elves had written the password on a sticky note, but someone threw it out.
 
@@ -31,7 +33,7 @@ Other than the range rule, the following are true:
 
 **How many different passwords** within the range given in your puzzle input meet these criteria?
 
-## Part Two
+### Part 2
 
 An Elf just remembered one more important detail: the two adjacent matching digits **are not part of a larger group of matching digits**.
 
