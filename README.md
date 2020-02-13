@@ -15,3 +15,4 @@ See each day for more information. I copied the instructions there as well.
 - [Day 6: Universal Orbit Map](/day6)
 - [Day 7: Amplification Circuit](/day7)
 - [Day 8: Space Image Format](/day8)
+- [Day 9: Sensor Boost](/day9)
